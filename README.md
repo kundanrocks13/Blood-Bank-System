@@ -1,0 +1,2 @@
+# Blood-Bank-System
+This BLOOD BANK SYSTEM project is designed for successfully provide blood service to the pateint recently form Blood Banks or Hospitals.Blood Bank System is a Web based application that is designed to store, process, retrieve and analyze information concerned with the administrative and inventory management within a blood bank. This project aims at maintaining all the information of different blood groups available in each blood bank and help them manage in a better way.
